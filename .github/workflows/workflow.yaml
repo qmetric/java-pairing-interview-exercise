@@ -1,7 +1,0 @@
-name: Deployment Pipeline
-
-on: [push]
-jobs:
-  version:
-      uses: qmetric/version-workflow/.github/workflows/reusable-workflow.yaml@v1.0.1
-      secrets: inherit
