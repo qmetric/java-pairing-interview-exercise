@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: java-pairing-interview-exercise
+  description: The java-pairing-interview-exercise
+  annotations:
+    github.com/project-slug: qmetric/java-pairing-interview-exercise
+spec:
+  type: service
+  owner: pay1-tech-leads
+  lifecycle: experimental
