@@ -51,5 +51,5 @@ The price of the insurance policy, expressed as a number with up to 2 decimal pl
 | **Name**        | **Date of Birth** | **Credit Score** | **Home Built** | **Home Number of Bedrooms** | **Premium Price** |
 |-----------------|-------------------|------------------|----------------|-----------------------------|-------------------|
 | Justin Case     | 20/05/1990        | 900              | 1990           | 2                           | 200               |
-| Sherlock Homes  | 04/03/1957        | 700              | 1940           | 4                           | 640               |
-| Polly C. Holder | 11/12/1930        | 550              | 1930           | 4                           | 732               |
+| Sherlock Homes  | 04/03/1957        | 700              | 1940           | 4                           | 560               |
+| Polly C. Holder | 11/12/1930        | 550              | 1930           | 4                           | 652               |
