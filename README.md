@@ -42,8 +42,6 @@ The price of the insurance policy, expressed as a number with up to 2 decimal pl
   - `Main`: Outputs the calculated premiums.
   - `HomePremium`: Manages the calculation of the premium.
   - `CustomerProfile`: Contains all necessary details for premium calculation.
-  - `Customer`: Holds the customer's personal information.
-  - `Home`: Stores information about the home.
 - Your objective is to build a solution that is verifiable and extensible.
 
 ## Possible Future Requirement 
